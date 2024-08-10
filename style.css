@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.box{
+    width: 26%;
+    border: 1px solid rgb(211, 208, 208);
+    margin: auto;
+    margin-top: 10px;
+
+    
+}
+.box-2{
+    width: 26%;
+    border: 1px solid rgb(211, 208, 208);
+    margin: auto;
+    margin-top: 10px;
+}
+.box #img{
+    height: 92px;
+    margin: 20px 0px 20px 0px;  
+}
+.form{
+    width: 85%;
+    margin: auto;
+}
+input{
+    height: 35px;
+    width: 100%; 
+    margin-bottom: 5px;
+    font-size: 11px;
+    border: 1px solid rgb(211, 208, 208);
+    border-radius: 3px;
+    padding-left: 10px;
+    background-color: rgba(211, 208, 208, 0.192);
+}
+.btn{
+    width: 100%;
+    height: 30px;
+    background-color:#53bdeb;
+    border-radius: 5px;
+    border-style: none;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 10px;
+
+}
+.grey{
+    background-color: rgba(128, 128, 128, 0.418);
+    height: 1px;
+    width: 100px;
+}
+#grey-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#grey-line p{
+    margin: 15px 10px 10px  ;
+    color: rgb(124, 124, 124);
+    font-size: 12px;
+}
+.fb{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin-top: 20px;
+}
+.fb .p{
+    color: rgb(56, 81, 133);
+    font-weight: 600;
+    font-size: 14px;
+    
+}
+.fb img{
+    width: 30px;
+    height: 30px;
+    margin: 20px 0px 20px 50px;  
+
+}
+#p{
+    color: 
+    rgb(56, 81, 133);
+    font-size: 10px;
+    padding: 10px 0px 30px 0px;
+}
+.box-2 p{
+    font-size: 14px;
+    padding: 20px;
+}
+.box-2 span{
+    color:rgb(0, 149, 246);
+    font-weight: 600;
+}
+.box-3 p{
+    font-size: 14px;
+    padding-top: 15px;
+}
+.box-3 img{
+    width: 110px;
+    height: 40px;
+    margin: 15px 10px 50px 0px;
+}
